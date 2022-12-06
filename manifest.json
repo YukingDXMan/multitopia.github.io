@@ -1,0 +1,8 @@
+{
+    "name": "Docment",
+    "short_name": "Document",
+    "start_url": ".",
+    "background_color": "#ababab",
+    "description": "マルチトピア公式ホームページ",
+    "display":"standalone"
+}
